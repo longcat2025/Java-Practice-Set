@@ -1,1 +1,1 @@
-S = \left| \frac{x_1y_2 + x_2y_3 + x_3y_1 - x_1y_3 - x_2y_1 - x_3y_2}{2} \right|
+S = |(x<sub>1</sub>y<sub>2</sub> + x<sub>2</sub>y<sub>3</sub> + x<sub>3</sub>y<sub>1</sub> - x<sub>1</sub>y<sub>3</sub> - x<sub>2</sub>y<sub>1</sub> - x<sub>3</sub>y<sub>2</sub>) / 2|
